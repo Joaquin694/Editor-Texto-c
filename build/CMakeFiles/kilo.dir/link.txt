@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/kilo.dir/src/kilo.c.o -o kilo 

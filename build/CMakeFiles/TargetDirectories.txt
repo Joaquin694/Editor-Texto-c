@@ -1,0 +1,3 @@
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Editor-Texto/build/CMakeFiles/kilo.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Editor-Texto/build/CMakeFiles/edit_cache.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Editor-Texto/build/CMakeFiles/rebuild_cache.dir
